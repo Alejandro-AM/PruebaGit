@@ -1,0 +1,13 @@
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\bin\Debug\netcoreapp3.1\PruebaGit.exe
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\bin\Debug\netcoreapp3.1\PruebaGit.deps.json
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\bin\Debug\netcoreapp3.1\PruebaGit.runtimeconfig.json
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\bin\Debug\netcoreapp3.1\PruebaGit.runtimeconfig.dev.json
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\bin\Debug\netcoreapp3.1\PruebaGit.dll
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\bin\Debug\netcoreapp3.1\PruebaGit.pdb
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.csprojAssemblyReference.cache
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.AssemblyInfoInputs.cache
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.AssemblyInfo.cs
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.dll
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.pdb
+C:\Users\Jorge Ayala\Desktop\PruebaGit\PruebaGit\obj\Debug\netcoreapp3.1\PruebaGit.genruntimeconfig.cache
